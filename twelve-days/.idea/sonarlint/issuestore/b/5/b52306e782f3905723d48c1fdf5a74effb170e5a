@@ -1,0 +1,45 @@
+
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8÷íÖÖä/
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8÷íÖÖä/
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8÷íÖÖä/
+ˆ
+java:S1192"lDefine a constant instead of duplicating this literal " day of Christmas my true love gave to me: " 3 times.(ºŒÍM8å¸ÕÖä/
+d
+java:S1192"HDefine a constant instead of duplicating this literal "On the " 3 times.(ºŒÍM8å¸ÕÖä/
+7
+java:S1643"Use a StringBuilder instead.(“œ”âúÿÿÿÿ
+7
+java:S1643"Use a StringBuilder instead.(õùÉûÿÿÿÿ
+7
+java:S1643$"Use a StringBuilder instead.(“¬Åìúÿÿÿÿ
+7
+java:S1643&"Use a StringBuilder instead.(“œ”âúÿÿÿÿ
+7
+java:S1643'"Use a StringBuilder instead.(õùÉûÿÿÿÿ
+7
+java:S1643*"Use a StringBuilder instead.(—›¡Ëúÿÿÿÿ
+2
+java:S1643,"Use a StringBuilder instead.(•‹áÜ
+2
+java:S1643-"Use a StringBuilder instead.(ÂŠ
+>
+java:S1643/"Use a StringBuilder instead.(šœÙîÿÿÿÿÿ8ıÑÖä/
+>
+java:S16438"Use a StringBuilder instead.(“¬Åìúÿÿÿÿ8å¸ÕÖä/
+>
+java:S1643:"Use a StringBuilder instead.(“œ”âúÿÿÿÿ8å¸ÕÖä/
+>
+java:S1643;"Use a StringBuilder instead.(õùÉûÿÿÿÿ8å¸ÕÖä/
+>
+java:S1643>"Use a StringBuilder instead.(—›¡Ëúÿÿÿÿ8å¸ÕÖä/
+9
+java:S1643@"Use a StringBuilder instead.(•‹áÜ8å¸ÕÖä/
+9
+java:S1643A"Use a StringBuilder instead.(ÂŠ8å¸ÕÖä/
+>
+java:S1643C"Use a StringBuilder instead.(šœÙîÿÿÿÿÿ8å¸ÕÖä/
+0
+java:S1220""Move this file to a named package.
